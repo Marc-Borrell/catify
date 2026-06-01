@@ -70,11 +70,19 @@ The main goal of the project is to combine **file security (cryptography)** with
 ```bash
 git clone https://github.com/Marc-Borrell/catify.git
 ```
-2. Open the solution (.sln) in Visual Studio.
-3. Restore NuGet packages if prompted (MySql.Data is required).
-4. Configure your database connection in the Database class.
-5. Build the project by selecting Build > Build Solution.
-6. Run the application by clicking Start in Visual Studio.
+2. Open the project in Android Studio
+ Select Open an existing project and navigate to the cloned repository folder. <br>
+3. Sync Gradle
+ Android Studio will detect the build.gradle files and download required dependencies.<br>
+ Click Sync Now if the prompt appears.<br>
+4. Configure permissions and dependencies <br>
+ Make sure storage and network permissions are enabled in AndroidManifest.xml.<br>
+ Ensure Firebase and other libraries are properly configured.<br>
+5. Connect a device or start an emulator 
+Android API 24+ is recommended. <br>
+6. Build and run the app 
+Click Run > Run 'app' or press the Play button in Android Studio. <br>
+The app will be installed on your device/emulator and launched automatically. <br>
 
 ## How it works
 1. Encryption Process <br>
