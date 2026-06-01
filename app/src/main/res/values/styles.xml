@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MusicSecure" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Tema principal de la app -->
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.MusicSecure.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Tema para la Splash Screen sin barra -->
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+</resources>

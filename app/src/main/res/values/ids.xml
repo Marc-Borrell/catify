@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextConfirmPassword" type="id" />
+    <item name="buttonRegister" type="id" />
+    <item name="btnEncrypt" type="id" />
+    <item name="btnDecrypt" type="id" />
+    <item name="btnSign" type="id" />
+    <item name="btnVerify" type="id" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40338094544",
+    "project_id": "catify-a3e25",
+    "storage_bucket": "catify-a3e25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40338094544:android:c49514f232485ff7f8e1d5",
+        "android_client_info": {
+          "package_name": "com.example.criptoprojecte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejbW13kjiSbbuinrgC88jmJFdr4W-FME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
